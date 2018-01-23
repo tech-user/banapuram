@@ -1,0 +1,106 @@
+/* Enter Your Custom CSS Here */
+
+.home .entry-header {
+      display: none;
+}
+
+@font-face {
+    font-family: ramabhadra;
+    src:url('http://banapuram.com/wp-content/uploads/webfonts/ramabhadra.woff');
+
+}
+
+@font-face {
+   font-family: suravaram;
+  src:url('http://banapuram.com/wp-content/uploads/webfonts/suravaram.woff');
+}
+
+@font-face {
+   font-family: mallanna;
+  src:url('http://banapuram.com/wp-content/uploads/webfonts/mallanna.woff');
+}
+
+
+@font-face {
+  font-family: gidugu;  src:url('http://banapuram.com/wp-content/uploads/webfonts/gidugu.woff');
+}
+
+@font-face {
+   font-family: ntr;
+  src:url('http://banapuram.com/wp-content/uploads/webfonts/ntr.woff');
+}
+
+@font-face {
+   font-family: gurajada;
+  src:url('http://banapuram.com/wp-content/uploads/webfonts/gurajada.woff');
+}
+
+@font-face {
+   font-family: peddana;
+  src:url('http://banapuram.com/wp-content/uploads/webfonts/peddana.woff');
+}
+
+@font-face {
+   font-family: nats;
+  src:url('http://banapuram.com//wp-content/uploads/webfonts/nats.woff');
+}
+
+
+.breaking-news{
+font-family:mallanna;
+font-size: 18px;
+}
+
+
+h1{
+    font-family: suravaram;
+  color:#cd300f;
+  margin-top:10px;
+}
+
+h2 {
+    font-family: nats;
+  margin-top:10px;
+}
+
+
+h3 {
+    font-family: ramabhadra;
+}
+
+h4 {
+font-family: ramabhadra;
+  font-size:24px;
+}
+
+h5 {
+font-family: ntr;
+  font-size:24px;
+}
+
+h6 {
+font-family: peddana;
+  font-size:20px;
+}
+
+.main-navigation a{
+  font-family: gidugu;
+  font-size: 22px;
+}
+
+
+p {
+	line-height: 1.6;
+	margin-bottom: 15px;
+	font-family:mallanna;
+	font-size: 20px;
+}
+.footer-socket-wrapper .copyright {
+  display: none;
+}
+
+
+#site-navigation {
+ border-top:none;
+
+}
